@@ -4,11 +4,11 @@
 
 🧠 A Data Scientist with 6+ years of experience specialising in Predictive Analytics, Machine Learning, and AI. Skilled in Python (Scikit-Learn, TensorFlow, Keras), R, SQL, and data visualisation.
 
-🌍 Passionate about ensuring Africa's inclusion in the global data science conversation. I’m committed to improving statistical literacy and infrastructure in under-resourced communities — starting in South Africa.
+🌍 Passionate about ensuring Africa's inclusion in the global data science conversation. I’m committed to improving statistical literacy and infrastructure in under-resourced communities, starting in South Africa.
 
 💬 A multilingual learner improving my proficiency in Spanish, French, Italian, Portuguese, German, Greek and Latin. I speak English and SePedi fluently, and Afrikaans  at an intermediate level.
 
-📽️ I create beginner-friendly data science content and tutorials via my project: **Mahlodi Masters AI** — coming soon to YouTube, LinkedIn, and TikTok.
+📽️ I create beginner-friendly data science content and tutorials via my project: **Mahlodi Masters AI** coming soon to YouTube, LinkedIn, and TikTok.
 
 💪 Fitness enthusiast who enjoys in strength training, rowing, and swimming.
 
